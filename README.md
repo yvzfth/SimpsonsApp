@@ -28,17 +28,15 @@ The Simpsons Table View App is a simple iOS application that displays a list of 
 
 ## Structure
 
-- `SimpsonsTableViewController.swift`: The main view controller that displays the table view.
-- `SimpsonTableViewCell.swift`: Custom table view cell to represent each Simpsons character.
+- `ViewController.swift`: The main view controller that displays the table view.
 - `Simpson.swift`: Model class for the Simpsons character object.
-- `SimpsonTableViewCell.xib`: XIB file for the custom table view cell UI.
 - `Assets.xcassets`: Contains the images used in the app.
 - `Main.storyboard`: Storyboard file containing the main view controller and table view.
 - `AppDelegate.swift`: The app delegate file.
 
 ## Customization
 
-You can customize the app by modifying the `Simpson` class to include additional properties or by updating the UI elements in the `SimpsonTableViewCell.xib` file.
+You can customize the app by modifying the `Simpson` class to include additional properties or by updating the UI elements in the in a table cell.
 
 ## License
 
