@@ -10,8 +10,8 @@ The Simpsons Table View App is a simple iOS application that displays a list of 
 
 ## Screenshots
 
-![App Screenshots](Assets.xcassets/ss.imageset/ss.png)
-![App Screenshots](Assets.xcassets/ss2.imageset/ss2.png)
+![App Screenshots](/SimpsonsProject/Assets.xcassets/ss.imageset/ss.png)
+![App Screenshots](/SimpsonsProject/Assets.xcassets/ss2.imageset/ss2.png)
 
 ## Technologies Used
 
